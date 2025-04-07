@@ -1,13 +1,12 @@
-import logo from './logo.svg';
-import EffectTest from './components/EffectTest';
-import './App.css';
 
+import './App.css';
+import Number from './components/Number';
 
 function App() {
   return (
     <div className="App">
-      <EffectTest></EffectTest>
-
+  
+<Number></Number>
     </div>
   );
 }
